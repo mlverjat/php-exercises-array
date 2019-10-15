@@ -1,0 +1,6 @@
+<? php
+
+$ months  =  [ "janvier" , "février" , "mars" , "avril" , "mai" , "juin" , "juillet" , "aout" , "septembre" , "octobre" , "novembre" , "décembre " ];
+echo  $ mois [ 5 ];
+?>
+//En parallèle, ext du fichier .php; l'ouvrir dans le terminal et taper php nomfichier.sonextension et enter
